@@ -1,6 +1,6 @@
 # Variational Autoencoders for Inverse Molecular Design
 
-Code developed as a research work in the field of Bioinformatics applied to the study of molecular structures using Generative Models. 
+Code developed as a research work in the field of Bioinformatics applied to the study of molecular structures using Deep Generative Models. 
 
 The work was developed as a Master Thesis topic and it is the result of a research carried out at [SOCO](https://soco.upc.edu/en) and [IDEAI](https://ideai.upc.edu/en) groups at [Universitat Politecnica de Catalunya (Barcelona, SPAIN)](https://www.upc.edu/en).
 
